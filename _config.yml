@@ -1,7 +1,6 @@
 # Site settings
-title: Rob Hinds
-twitter_username: rob_hinds
-name: Rob Hinds
+title: Ramesh Sunkari
+name: Ramesh Sunkari
 
 # Build settings
 markdown: kramdown
@@ -9,27 +8,23 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: https://automateddeveloper.blogspot.com/
+ - title: Medium
+   url: https://medium.com/@ramsunka
  - title: GitHub
-   url: https://github.com/robhinds
- - title: StackOverflow
-   url: https://stackoverflow.com/users/258813/rhinds
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
+   url: https://github.com/ramsunka
  - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
+   url: https://www.linkedin.com/in/ramsunka/
 
 #Any buzzword skills you want to include
 skills:
- - Scala
- - Akka-http
+ - MuleSoft
+ - Pl/Sql
  - Microservices
- - Slick
+ - AWS
  - Product management
  - API design
- - Groovy
- - Spring MVC/Boot/Social
+ - Maven
+ - Spring MVC
  - Gradle
  - Java
  - JPA
@@ -38,8 +33,6 @@ skills:
  - Technical Architecture
  - Machine learning
 
-#Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
