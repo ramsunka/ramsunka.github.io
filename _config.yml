@@ -41,12 +41,12 @@ roles:
    end: Ongoing
    employer: Driscoll's
    description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
-- title: Senior Consultant 
+ - title: Senior Consultant 
    start: 2019
    end: 2019
    employer: Zilker Technology
    description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques
-- title: Technology Analyst 
+ - title: Technology Analyst 
    start: 2013
    end: 2019
    employer: Infosys Ltd
